@@ -1,4 +1,4 @@
-# Occlusion-Robust Gait Recognition using ODR-FEGR
+# Gait Recognition under Random Occlusion
 
 Gait recognition is a biometric identification technique that recognizes individuals based on their walking patterns. Unlike traditional biometrics, it enables non-contact identification at a distance without requiring subject cooperation. However, real-world deployment remains challenging due to occlusions caused by objects, other individuals, or environmental structures, which can significantly degrade recognition performance.
 
